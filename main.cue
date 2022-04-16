@@ -1,4 +1,4 @@
-package template
+package zero
 
 import (
 	"github.com/defn/boot/project"

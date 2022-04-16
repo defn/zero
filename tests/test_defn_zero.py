@@ -1,4 +1,4 @@
-from defn_template import __version__
+from defn_zero import __version__
 
 
 def test_version():

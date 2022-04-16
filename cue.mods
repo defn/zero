@@ -1,5 +1,5 @@
-module github.com/defn/template
+module github.com/defn/zero
 
 cue v0.4.0
 
-require github.com/defn/boot v0.0.83
+require github.com/defn/boot v0.0.88

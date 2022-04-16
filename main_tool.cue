@@ -1,4 +1,4 @@
-package template
+package zero
 
 command: {
 	args: string @tag(args)
